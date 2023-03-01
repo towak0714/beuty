@@ -1,0 +1,25 @@
+@import url(../card-map/__subtitle/card-map__subtitle.css);
+@import url(../card-map/__title/card-map__title.css);
+@import url(../card-map/__wrapper/card-map__wrapper.css);
+
+
+.card-map {
+    max-width: 540px;
+    width: 100%;
+    display: flex;
+    background-color: #66C05D;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1145.98px) {
+    .card-map {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-map {
+        justify-content: center;
+        text-align: center;
+    }
+}

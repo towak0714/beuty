@@ -1,0 +1,56 @@
+/* normalize */
+@import url(../vedor/normalize.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
+/* header  */
+@import url(../blocks/header/header.css);
+
+/* wrapper */
+@import url(../blocks/wrapper/wrapper.css);
+
+/* feedback */
+@import url(../blocks/feedback/feedback.css);
+
+/* nav */
+@import url(../blocks/nav/nav.css);
+
+/* menu */
+@import url(../blocks/menu/menu.css);
+
+/* button */
+@import url(../blocks/button/button.css);
+
+/* info */
+@import url(../blocks/info/info.css);
+
+/* cards */
+@import url(../blocks/cards/cards.css);
+
+/* card */
+@import url(../blocks/card/card.css);
+
+/* card-descripton */
+@import url(../blocks/card-description/card-description.css);
+
+/* card-map */
+@import url(../blocks/card-map/card-map.css);
+
+/* input */
+@import url(../blocks/input/input.css);
+
+/* social-network */
+@import url(../blocks/social-network/social-network.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+
+/* all link hover */
+@import url(../blocks/link/_active/link_active.css);
+
+/* logo */
+@import url(../blocks/logo/__facebook/logo__facebook.css);
+@import url(../blocks/logo/__instagram/logo__instagram.css);
+@import url(../blocks/logo/__vk/logo__vk.css);
+@import url(../blocks/logo/__youtube/logo__youtube.css);

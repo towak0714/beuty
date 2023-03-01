@@ -1,0 +1,14 @@
+.info__subtitle {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 50px 0 50px;
+    max-width: 308px;
+}
+
+@media screen and (max-width: 767.98px) {
+    .info__subtitle {
+        text-align: center;
+    }
+}

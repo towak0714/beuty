@@ -1,0 +1,7 @@
+.info__container {
+    max-width: 308px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: baseline;
+}

@@ -1,0 +1,11 @@
+.input {
+    border-radius: 30px;
+    max-width: 225px;
+    border: none;
+    padding: 9px 104px 9px 25px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #C4C4C4;
+    box-sizing: border-box;
+}

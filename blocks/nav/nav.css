@@ -1,0 +1,11 @@
+@import url(../nav/__item/nav__item.css);
+@import url(../nav/__link/nav__link.css);
+
+.nav {
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    padding: 30px 20px;
+    justify-content: center;
+    border-top: 1px solid #EFEFEF;
+}

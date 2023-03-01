@@ -1,0 +1,6 @@
+.card__image {
+    max-width: 125px;
+    padding: 25px 65px 0 65px ;
+    object-fit: contain;
+    object-position: center;
+}

@@ -1,0 +1,15 @@
+.card-description__subtitle {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 25px 0;
+    max-width: 231px;
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-description__subtitle {
+        margin: 10px 0;
+        max-width: 100%;
+    }
+}

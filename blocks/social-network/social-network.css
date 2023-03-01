@@ -1,0 +1,8 @@
+@import url(../social-network/__item/social-network__item.css);
+@import url(../social-network/__link/social-network__link.css);
+
+.social-network {
+    display: flex;
+    padding: 17px 0 16px;
+    align-items: center;
+}

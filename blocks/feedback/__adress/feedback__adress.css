@@ -1,0 +1,20 @@
+.feedback__adress {
+    margin: 0 105px 0 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+@media screen and (max-width: 991.98px) {
+    .feedback__adress {
+        margin: 0 60px 0 0;
+    }
+    
+}
+    
+    @media screen and (max-width: 767.98px) {
+    .feedback__adress {
+        margin: 0 20px 0 0;
+    }
+        
+}

@@ -1,0 +1,12 @@
+.card-map__wrapper {
+    padding: 35px 0 35px 40px;
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-map__wrapper {
+        padding: 35px 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

@@ -1,0 +1,4 @@
+.link_active:hover {
+    color: #66C05D;
+    transition: 0.3s ease;
+}

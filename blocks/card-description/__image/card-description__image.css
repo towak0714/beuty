@@ -1,0 +1,12 @@
+.card-description__image {
+    object-fit: contain;
+    object-position: center;
+    margin-right: 45px;
+    max-width: 140px;
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-description__image {
+        display: none;
+    }
+}

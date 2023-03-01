@@ -1,0 +1,9 @@
+@import url(../cards/__flex/cards__flex.css);
+@import url(../cards/__grid/cards__grid.css);
+@import url(../cards/__header/cards__header.css);
+@import url(../cards/__logo/cards__logo.css);
+@import url(../cards/__title/cards__title.css);
+
+.cards {
+    margin: 80px auto 100px;
+}

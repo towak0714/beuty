@@ -1,0 +1,12 @@
+.cards__flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+@media screen and (max-width: 1145.98px) {
+    .cards__flex {
+        justify-content: center;
+    }
+}

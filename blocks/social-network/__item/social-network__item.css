@@ -1,0 +1,9 @@
+.social-network__item {
+        list-style-type: none;
+        margin-right: 20px;
+    }
+    
+    
+.social-network__item:last-child {
+    margin-right: 0px;
+}

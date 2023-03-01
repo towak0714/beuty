@@ -1,0 +1,23 @@
+@import url(../card-description/__image/card-description__image.css);
+@import url(../card-description/__subtitle/card-description__subtitle.css);
+@import url(../card-description/__title/card-description__title.css);
+
+
+
+.card-description {
+    max-width: 540px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #66C05D;
+    padding: 35px 0 35px 40px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-description {
+        justify-content: center;
+        text-align: center;
+        padding: 35px 40px;
+    }
+}

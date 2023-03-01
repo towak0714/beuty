@@ -1,0 +1,12 @@
+.cards__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 767.98px) {
+    .cards__header {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}

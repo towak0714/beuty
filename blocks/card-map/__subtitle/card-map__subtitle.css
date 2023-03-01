@@ -1,0 +1,15 @@
+.card-map__subtitle {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 25px 0;
+    max-width: 141px;
+}
+
+@media screen and (max-width: 565.98px) {
+    .card-map__subtitle {
+        margin: 10px 0;
+        max-width: 100%;
+    }
+}

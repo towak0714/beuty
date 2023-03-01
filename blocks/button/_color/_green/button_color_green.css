@@ -1,0 +1,10 @@
+.button_color_green{
+    border: 2px solid #FFFFFF;
+    background-color: #66C05D;
+    color: #FFFFFF;
+}
+
+.button_color_green:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}

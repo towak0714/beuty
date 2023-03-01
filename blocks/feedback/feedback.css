@@ -1,0 +1,15 @@
+@import url(../feedback/__adress/feedback__adress.css);
+@import url(../feedback/__number/feedback__number.css);
+
+.feedback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 449.98px) {
+    .feedback {
+        flex-direction: column;
+    }
+}

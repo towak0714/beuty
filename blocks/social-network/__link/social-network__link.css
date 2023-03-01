@@ -1,0 +1,16 @@
+.social-network__link {
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #66C05D;
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition: .2s ease;
+}
+
+.social-network__link:hover {
+    transform: scale(1.2);
+}

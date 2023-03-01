@@ -1,0 +1,22 @@
+@import url(../info/__container/info__container.css);
+@import url(../info/__subtitle/info__subtitle.css);
+@import url(../info/__text/info__text.css);
+@import url(../info/__title/info__title.css);
+
+.info {
+    background-image: url(../../images/Frame\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 159px;
+    padding-bottom: 204px;
+    color: #fff;
+}
+
+@media screen and (max-width: 767.98px) {
+    .info {
+        background-image: none;
+        background-color: #66C05D;
+    }
+}
+

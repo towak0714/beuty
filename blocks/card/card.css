@@ -1,0 +1,11 @@
+@import url(../card/__button/card__button.css);
+@import url(../card/__image/card__image.css);
+@import url(../card/__price/card__price.css);
+@import url(../card/__title/card__title.css);
+
+.card {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    max-width: 255px;
+}

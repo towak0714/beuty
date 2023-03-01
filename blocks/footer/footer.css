@@ -1,0 +1,9 @@
+@import url(../footer/__container/_color/_gray/footer__container_color_gray.css);
+@import url(../footer/__container/footer__container.css);
+@import url(../footer/__link/footer__link.css);
+@import url(../footer/__text/footer__text.css);
+@import url(../footer/__wrapper/footer__wrapper.css);
+
+.footer {
+    background-color: #FFFFFF;;
+}
